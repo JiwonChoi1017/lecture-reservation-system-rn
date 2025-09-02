@@ -1,10 +1,10 @@
 import js from "@eslint/js";
 import prettierConfig from "eslint-config-prettier";
 import importPlugin from "eslint-plugin-import";
+import reactPlugin from "eslint-plugin-react";
 import reactHooks from "eslint-plugin-react-hooks";
 import reactNative from "eslint-plugin-react-native";
 // ESLint flat config for React Native + TypeScript (ESLint v9)
-import reactPlugin from "eslint-plugin-react";
 import tseslint from "typescript-eslint";
 
 export default [
