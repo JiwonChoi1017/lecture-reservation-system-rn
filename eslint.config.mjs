@@ -1,5 +1,5 @@
-import importPlugin from "eslint-plugin-import";
 import js from "@eslint/js";
+import importPlugin from "eslint-plugin-import";
 import prettierConfig from "eslint-config-prettier";
 import reactHooks from "eslint-plugin-react-hooks";
 import reactNative from "eslint-plugin-react-native";
